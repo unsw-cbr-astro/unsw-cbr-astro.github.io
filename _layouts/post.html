@@ -26,26 +26,28 @@ layout: compress
                     {% endif %}
 
                     {% if page.project == null %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/"></a>
-                        <i class="fa fa-chevron-left"></i>
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    
                     {% else %}
+
                     {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/"></a>
-                        <i class="fa fa-chevron-left"></i>
+                    <a class="btn zoombtn" href="{{site.url}}/projects/">
                     {% endif %}
+                    
                     {% if page.faculty %}
-                    <a class="btn zoombtn" href="{{site.url}}/faculty/"></a>
-                        <i class="fa fa-chevron-left"></i>
+                    <a class="btn zoombtn" href="{{site.url}}/faculty/">
                     {% endif %}
+
                     {% if page.member %}
-                    <a class="btn zoombtn" href="{{site.url}}/members/"></a>
-                        <i class="fa fa-chevron-left"></i>
+                    <a class="btn zoombtn" href="{{site.url}}/members/">
                     {% endif %}
+
                     {% if page.past-member %}
-                    <a class="btn zoombtn" href="{{site.url}}/past-members/"></a>
+                    <a class="btn zoombtn" href="{{site.url}}/past-members/">
+                    {% endif %}
+                    
+                    {% endif %}
                         <i class="fa fa-chevron-left"></i>
-                    {% endif %}
-                    {% endif %}
                     </a>
                 </div>
                 {{ content }}

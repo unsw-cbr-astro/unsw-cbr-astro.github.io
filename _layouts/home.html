@@ -15,9 +15,16 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated tada">
-                    </a>
+                    <div class="column">
+                        <a href="https://www.unsw.edu.au/canberra/about-us/our-schools/science">
+                            <img src="{{ site.uni-logo }}">
+                        </a>
+                    </div>
+                    <div class="column">
+                        <a href="{{ site.url }}">
+                            <img src="{{ site.logo }}" class="img-circle zoombtn animated tada">
+                        </a>
+                    </div>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
                         	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
@@ -30,6 +37,7 @@ layout: compress
 			            </a>
                     </h3>
                     <!-- {% include social-links.html %} -->
+                  <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
                          About
@@ -48,7 +56,7 @@ layout: compress
                         </a>
                  </h3>
                  <hr class="hr-line">
-                 <p style="font-size:0.5rem;font-weight:300">Website based on the <a href="">Moon theme</a>. Background image by <a href="https://www.eso.org/public/images/eso1625a/">ESO/H. Drass et al.</a> and logo by <a href="https://www.flaticon.com/free-icons/supernova">Agung Rama</a></p>
+                 <p style="font-size:0.7rem;font-weight:300">Website based on the <a href="https://github.com/TaylanTatli/Moon">Moon theme</a>. Background image by <a href="https://www.eso.org/public/images/eso1625a/">ESO/H. Drass et al.</a> and logo by <a href="https://www.flaticon.com/free-icons/supernova">Agung Rama</a></p>
             </div>
         </div>
     </header>
