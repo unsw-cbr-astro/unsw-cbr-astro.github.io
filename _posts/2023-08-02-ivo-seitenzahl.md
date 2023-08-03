@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Dr. Ivo Seitenzahl"
-date:   2023-08-03
+date:   2023-08-02
 excerpt: "Short excerpt here"
+project: false
 faculty: true
 tag:
 - faculty
