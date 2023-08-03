@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Faculty
+  url: /faculty/
+
+- title: Current Members
+  url: /members/
+
+- title: Past Members
+  url: /past-memebers/

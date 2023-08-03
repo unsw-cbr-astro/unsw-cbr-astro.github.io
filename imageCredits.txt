@@ -1,0 +1,2 @@
+icon - <a href="https://www.flaticon.com/free-icons/supernova" title="supernova icons">Supernova icons created by Agung Rama - Flaticon</a>
+background - https://www.eso.org/public/images/eso1625a/ ESO/H. Drass et al.
