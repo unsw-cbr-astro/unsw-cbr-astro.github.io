@@ -11,7 +11,7 @@ comments: false
 ---
 
 ## About
-<img src="/assets/img/IvoSeitenzahl.jpg" style="float: left; border-radius: 50%" />
+<img src="/assets/img/IvoSeitenzahl.jpg" style="float: left; border-radius: 50%; width: 50%" />
 In 2017 I was awarded a Future Fellowship by the Australian Research Council in the School of Science at the University of New South Wales Canberra. I’m working on models and simulations of thermonuclear supernova explosions and their associated nucleosynthesis
 
 I am editor-in-chief for the Cambridge University Press journal PASA (Publications of the Astronomical Society of Australia, 2021 Impact Factor: 6.51) and on the steering committee for ANITA (Australian National Institute for Theoretical Astrophysics).
