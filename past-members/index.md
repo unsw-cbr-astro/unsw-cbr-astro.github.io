@@ -1,6 +1,6 @@
 ---
-layout: project
+layout: past-members
 title: Past Members
-excerpt: "A List of Projects"
+excerpt: "A List of Past Members"
 comments: false
 ---
