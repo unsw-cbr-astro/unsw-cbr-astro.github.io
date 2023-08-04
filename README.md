@@ -1,6 +1,6 @@
 # Website for the Astro Group @ UNSW Canberra.
 
-Based on the **[Moon](https://taylantatli.github.io/Moon)** jekyll theme, customized and adapted by [Nicolas Rodriguez-Segovia](https:\\nrsegovia.github.io).
+Based on the **[Moon](https://taylantatli.github.io/Moon)** jekyll theme, customized and adapted by [Nicolas Rodriguez-Segovia](https://nrsegovia.github.io).
 
 ## How to add new members
 
