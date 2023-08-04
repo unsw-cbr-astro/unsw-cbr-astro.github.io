@@ -13,7 +13,7 @@ comments: false
 ---
 
 ## About
-<img src="/assets/img/EvansOwusu.jpg" class="img-circle" style="margin-right: 15px" /> <!-- style="float: left; border-radius: 50%; width: 33%; margin-right: 15px" /> -->
+<img src="/assets/img/EvansOwusu.jpg" class="img-profile" />
 Evans Owusu is a dedicated and passionate PhD Research Student specialising in Astrophysics at the University of New South Wales, Canberra, Australia and a visiting Research Fellow at the Max Planck Institute for Astronomy, Heidelberg, Germany. With a deep-rooted love for exploration, he is often engrossed in not just unraveling the mysteries of the cosmos, but also in discovering new cultures and connecting with diverse individuals.
 
 An ardent advocate of service, Evans has consistently devoted his time to volunteer work, contributing to non-profit organizations, charities, and societies for over a decade. His commitment to social impact extends into his professional sphere where, as a STEM Consultant, he empowers underserved communities and rural children, harnessing over 5 years of experience in this arena.

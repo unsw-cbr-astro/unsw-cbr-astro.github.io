@@ -24,7 +24,7 @@ layout: compress
                 <h2>Faculty</h2>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.people & post.faculty %}
+                        {% if (post.people && post.faculty) %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
@@ -39,7 +39,7 @@ layout: compress
                 <h2>Postgrads</h2>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.people & post.postgrad %}
+                        {% if (post.people && post.postgrad) %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
