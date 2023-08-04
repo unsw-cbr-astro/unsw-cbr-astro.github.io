@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr. Ashley J. Ruiter"
+title:  "Ashley J. Ruiter"
 date:   2023-08-02
 excerpt: "Lecturer @ UNSW Canberra"
 project: false

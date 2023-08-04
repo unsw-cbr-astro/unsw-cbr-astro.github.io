@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr. Ivo Seitenzahl"
+title:  "Ivo Seitenzahl"
 date:   2023-08-02
 excerpt: "Lecturer @ UNSW Canberra"
 project: false
