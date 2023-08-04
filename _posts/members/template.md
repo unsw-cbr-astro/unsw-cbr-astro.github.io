@@ -26,5 +26,5 @@ Add text about you here!!
 ## Contact Information
 
 - E-mail: [your@email.here](mailto:your@email.here)
-- Website: [Text](https:\\your.link.here)
-- Others: [Text](https:\\your.link.here)
+- Website: [Text](https://your.link.here)
+- Others: [Text](https://your.link.here)
