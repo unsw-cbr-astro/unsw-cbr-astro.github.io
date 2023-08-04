@@ -26,5 +26,5 @@ Add text about you here!!
 ## Contact Information
 
 - E-mail: [n.rsegovia@adfa.edu.au](mailto:n.rsegovia@adfa.edu.au)
-- Website: [Personal Page](nrsegovia.github.io)
-- Others: [Text](https:\\your.link.here)
+- Website: [Personal Page](https://nrsegovia.github.io)
+- Others: [Text](https://your.link.here)
