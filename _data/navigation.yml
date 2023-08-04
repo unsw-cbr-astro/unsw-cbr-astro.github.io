@@ -1,10 +1,7 @@
 # Site navigation links
 
-- title: Faculty
-  url: /faculty/
-
-- title: Current Members
-  url: /members/
+- title: People
+  url: /people
 
 - title: Past Members
-  url: /past-memebers/
+  url: /past-memebers

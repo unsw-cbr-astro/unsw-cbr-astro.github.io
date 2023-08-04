@@ -2,8 +2,9 @@
 layout: post
 title:  "Dr. Ivo Seitenzahl"
 date:   2023-08-02
-excerpt: "Short excerpt here"
+excerpt: "Lecturer @ UNSW Canberra"
 project: false
+people: true
 faculty: true
 tag:
 - faculty

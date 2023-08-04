@@ -2,9 +2,10 @@
 layout: post
 title:  "Evans Owusu"
 date:   2023-08-02
-excerpt: "Short excerpt here"
+excerpt: "PhD Student working under Ashley Ruiter"
 project: false
-member: true
+people: true
+postgrad: true
 tag:
 - phd-student
 - evans
