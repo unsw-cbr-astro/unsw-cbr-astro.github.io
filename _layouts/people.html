@@ -23,8 +23,8 @@ layout: compress
                 </div>
                 <h2>Faculty</h2>
                 <div class="post-list">
-                    {% for post in site.categories.members %} 
-                        {% if post.faculty %}
+                    {% for post in site.posts %} 
+                        {% if post.faculty and (post.path contains 'members') %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
@@ -38,8 +38,8 @@ layout: compress
                 <hr class="hr-line">
                 <h2>Postgrads</h2>
                 <div class="post-list">
-                    {% for post in site.categories.members %} 
-                        {% if post.postgrad %}
+                    {% for post in site.posts %} 
+                        {% if post.postgrad and (post.path contains 'members') %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
