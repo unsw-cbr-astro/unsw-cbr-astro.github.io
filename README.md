@@ -1,30 +1,15 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Website for the Astro Group @ UNSW Canberra.
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+Based on the **[Moon](https://taylantatli.github.io/Moon)** jekyll theme, customized and adapted by [Nicolas Rodriguez-Segovia](nrsegovia.github.io).
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## How to add new members
 
-## Preview
+Copy the template in `_posts/members` and rename it by following the format of other profile pages in the same directory. Be sure to set `faculty` or `postgrad` properly, so it shows up on the right place afterwards.
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+## How to add news
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+Just copy the latest entry in `_posts/news` and modify the contents.
 
-## Getting Started
+## Formatting and design
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+This theme supports both markdown and html, so you can play around with those.
