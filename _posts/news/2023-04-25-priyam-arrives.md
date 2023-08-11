@@ -11,7 +11,7 @@ Staring today, our group has increased its size and expertise thanks to the arri
 
  <figure>
   <img src="/assets/news/IvoPriyamAirport.jpg" alt="Ivo and Priyam at the airport" style="width:50%">
-  <figcaption>A happy Ivo finally meeting Priyam at the airport.</figcaption>
+  <figcaption> <p style="text-align:center; font-style: italic;">A happy Ivo finally meeting Priyam at the airport.</p></figcaption>
 </figure> 
 
 ## Research Experience and Potential PhD projects
