@@ -7,19 +7,16 @@ tags: [new-member, phd-student, priyam, ivo]
 comments: true
 ---
 
-Fill in here with some details
+Staring today, our group has increased its size and expertise thanks to the arrival of [Mr. Priyam Das](https://unsw-cbr-astro.github.io/priyam-das/) who has been granted a scholarship to pursue his PhD degree at UNSW Canberra under the supervision of [Dr. Ivo Seitenzahl](https://unsw-cbr-astro.github.io/ivo-seitenzahl/). Good luck on your PhD, Priyam!
 
-## Cool title
+ <figure>
+  <img src="/assets/news/IvoPriyamAirport.jpg" alt="Ivo and Priyam at the airport" style="width:50%; display: block; margin-left: auto; margin-right: auto;">
+  <figcaption>A happy Ivo finally meeting Priyam at the airport.</figcaption>
+</figure> 
 
-* This
-* is
-* a
-* list
+## Research Experience and Potential PhD projects
 
-## Random text and a quote
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
+* Priyam
+* must
+* add
+* something
