@@ -154,6 +154,10 @@ figure {
     margin-bottom: 10px;
     @include rounded(4px);
   }
+  figcaption {
+    clear: left;
+    text-align: center;
+  }
   &.half {
     @media only screen and (min-width: 62.5em) {
       img {
@@ -177,7 +181,6 @@ figure {
       }
       figcaption {
         clear: left;
-        text-align: center;
       }
     }
   }
