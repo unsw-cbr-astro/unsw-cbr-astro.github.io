@@ -24,8 +24,6 @@ Always seeking to blend his intrinsic interests with the larger global goals, Ev
 
 Believing that knowledge is best acquired through shared insights, Evans continually expands his intellectual horizons by networking with talented individuals across diverse fields. As he pursues his astrophysics research, Evans remains committed to broadening his understanding and influence in the scientific community and beyond.
 
-[Link to CV](/)
-
 ## Current Projects
 
 - Galactic Archeology with GALAH
@@ -35,7 +33,4 @@ Believing that knowledge is best acquired through shared insights, Evans continu
 ## Contact Information
 
  - E-mail: [owusukojoevans@gmail.com](mailto:owusukojoevans@gmail.com)
-
-## Publications
-
-Under construction
+ - website: [Home Page](https://evansowusu.wixsite.com/evans-owusu)
