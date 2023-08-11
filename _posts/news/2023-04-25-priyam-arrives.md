@@ -16,7 +16,6 @@ Staring today, our group has increased its size and expertise thanks to the arri
 
 ## Research Experience and Potential PhD projects
 
-* Priyam
-* must
-* add
-* something
+* Working on Kepler SnR
+* Working on SnR 0509 from MUSE data.
+* [A link to my paper on 'Possibility of Wormholes'](https://ui.adsabs.harvard.edu/abs/2022EPJC...82..342D/abstract) 
