@@ -22,6 +22,7 @@ I have started my PhD studies at UNSW Canberra at ADFA, Australia under the supe
 
 - I am currently working on the type IA Supernova remnant 0509-67.5 in the LMC. My work is to understand the behaviour of reversed shocked ejecta and modelling it to get a better insight of the type IA supernova events. This will also allow us to look into the extreme nucleosynthesis processes comitted in a type IA explosion, thus providing information about the progenitor.
 - I also like to work on different fields of general relativity like wormholes and soft condessed matter physics (cosmological toy models in BEC).
+- This is a test
 
 ## Contact Information
 
