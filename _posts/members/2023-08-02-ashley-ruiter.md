@@ -36,7 +36,7 @@ Pre-PhD, I received my Masters from Saint Mary's University in Halifax, Nova Sco
 - ORCiD: [0000-0002-4794-6835](https://orcid.org/0000-0002-4794-6835)
 - Mastodon: [@astronomash@astrodon.social](https://astrodon.social/@astronomash)
 - Twitter: [@astronomash](https://twitter.com/astronomash)
-- Bluesky: @astronomash
+- Bluesky: `@astronomash`
 
 ## Research Opportunities
 
