@@ -2,7 +2,7 @@
 layout: post
 title:  "Priyam Das"
 date:   2023-08-02
-excerpt: "PhD Student working under Ivo Seitenzahl"
+excerpt: "PhD Student working with Ivo Seitenzahl"
 project: false
 people: true
 postgrad: true
@@ -26,6 +26,6 @@ I have started my PhD studies at UNSW Canberra at ADFA, Australia under the supe
 
 ## Contact Information
 
-- E-mail: [Priyam Das](mailto:priyam.das@adfa.edu.au)
+- E-mail: [priyam.das at adfa.edu.au](mailto:priyam.das@adfa.edu.au)
 - Website: [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=NzW2gpcAAAAJ)
 - Others: [Follow my work](https://github.com/Pdas888)

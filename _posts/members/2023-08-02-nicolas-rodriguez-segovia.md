@@ -2,7 +2,7 @@
 layout: post
 title:  "Nicolas Rodriguez-Segovia"
 date:   2023-08-02
-excerpt: "PhD Student working under Ashley Ruiter"
+excerpt: "PhD Student working with Ashley Ruiter"
 project: false
 people: true
 postgrad: true
@@ -28,6 +28,7 @@ Additional experience includes a short summer-research at PUC under Prof. Franz 
 
 ## Contact Information
 
-- E-mail: [n.rsegovia@adfa.edu.au](mailto:n.rsegovia@adfa.edu.au)
+- E-mail: [n.rsegovia at adfa.edu.au](mailto:n.rsegovia@adfa.edu.au)
 - Website: [Personal Page](https://nrsegovia.github.io)
-- Others: [ORCiD](https://orcid.org/0000-0002-0125-1472)
+- Github: [nrsegovia](https://github.com/nrsegovia)
+- ORCiD: [0000-0002-0125-1472](https://orcid.org/0000-0002-0125-1472)

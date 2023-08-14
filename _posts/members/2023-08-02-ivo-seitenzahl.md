@@ -2,7 +2,7 @@
 layout: post
 title:  "Ivo Seitenzahl"
 date:   2023-08-02
-excerpt: "Lecturer @ UNSW Canberra"
+excerpt: "Senior Lecturer @ UNSW Canberra"
 project: false
 people: true
 faculty: true
@@ -33,9 +33,10 @@ I have three Bachelor of Science degrees (astronomy, mathematics, physics) from 
 
 ## Contact Information
 
-- E-mail: [your@email.here](mailto:your@email.here)
-- Website: [Text](https:\\your.link.here)
-- Others: [Text](https:\\your.link.here)
+- E-mail: [i.seitenzahl at adfa.edu.au](mailto:i.seitenzahl@adfa.edu.au)
+- ORCiD: [0000-0002-5044-2988](https://orcid.org/0000-0002-5044-2988)
+<!-- - Website: [Text](https:\\your.link.here)
+- Others: [Text](https:\\your.link.here) -->
 
 ## Research Opportunities
 

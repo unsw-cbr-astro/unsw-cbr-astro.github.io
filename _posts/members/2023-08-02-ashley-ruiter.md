@@ -2,7 +2,7 @@
 layout: post
 title:  "Ashley J. Ruiter"
 date:   2023-08-02
-excerpt: "Lecturer @ UNSW Canberra"
+excerpt: "Senior Lecturer @ UNSW Canberra"
 project: false
 people: true
 faculty: true
@@ -31,10 +31,12 @@ Pre-PhD, I received my Masters from Saint Mary's University in Halifax, Nova Sco
 
 ## Contact Information
 
-- E-mail: [ashley.ruiter@adfa.edu.au](mailto:ashley.ruiter@adfa.edu.au)
+- E-mail: [ashley.ruiter at adfa.edu.au](mailto:ashley.ruiter@adfa.edu.au)
 - Website: [Wordpress](https://ashleyruiterastro.wordpress.com/)
+- ORCiD: [0000-0002-4794-6835](https://orcid.org/0000-0002-4794-6835)
 - Mastodon: [@astronomash@astrodon.social](https://astrodon.social/@astronomash)
 - Twitter: [@astronomash](https://twitter.com/astronomash)
+- Bluesky: @astronomash
 
 ## Research Opportunities
 

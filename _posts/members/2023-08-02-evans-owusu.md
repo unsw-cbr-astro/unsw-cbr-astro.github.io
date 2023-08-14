@@ -2,7 +2,7 @@
 layout: post
 title:  "Evans Owusu"
 date:   2023-08-02
-excerpt: "PhD Student working under Ashley Ruiter"
+excerpt: "PhD Student working with Ashley Ruiter"
 project: false
 people: true
 postgrad: true
@@ -32,5 +32,5 @@ Believing that knowledge is best acquired through shared insights, Evans continu
 
 ## Contact Information
 
- - E-mail: [owusukojoevans@gmail.com](mailto:owusukojoevans@gmail.com)
+ - E-mail: [owusukojoevans at gmail.com](mailto:owusukojoevans@gmail.com)
  - website: [Home Page](https://evansowusu.wixsite.com/evans-owusu)
